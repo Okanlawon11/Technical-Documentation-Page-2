@@ -1,2 +1,2 @@
-# Technical-Landing-Page-2
-Technical Landing Page
+# Technical-Documentation-Page-2
+Technical Documentation Page
